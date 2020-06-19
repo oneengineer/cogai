@@ -1,0 +1,21 @@
+screen size : 1/125% smaller than picture
+576 x 1018
+/      /
+12      6
+
+global size:
+h x w =  720 x 1272
+blocks (square) tile h x w / 12   =  60 x 106
+blocks          tile h x w / 12,6 =  60 x 212
+
+
+game boarder rect:
+(120,0)
+
+
+          (720 bottom, 912 )
+
+in terms of block
+(10,0)
+
+          (60 bottom, 152 )
